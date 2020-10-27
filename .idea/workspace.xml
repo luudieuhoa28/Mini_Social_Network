@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="025749a8-e9b2-4c38-996f-bcfad8e98174" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1hipeDggTL2SqO4knPTPzNYcFbj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YellowMoonShop" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="025749a8-e9b2-4c38-996f-bcfad8e98174" name="Default Changelist" comment="" />
+      <created>1600503859739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600503859739</updated>
+      <workItem from="1600503861581" duration="1287000" />
+      <workItem from="1600681325351" duration="3381000" />
+      <workItem from="1600697349707" duration="11466000" />
+      <workItem from="1600785770429" duration="8348000" />
+      <workItem from="1600920482068" duration="3810000" />
+      <workItem from="1600959665123" duration="6654000" />
+      <workItem from="1601025356712" duration="11048000" />
+      <workItem from="1601102312162" duration="16170000" />
+      <workItem from="1601191711214" duration="4256000" />
+      <workItem from="1601284592209" duration="4226000" />
+      <workItem from="1601307495010" duration="8424000" />
+      <workItem from="1601348806359" duration="19776000" />
+      <workItem from="1601440614903" duration="435000" />
+      <workItem from="1601459885942" duration="657000" />
+      <workItem from="1601997577355" duration="1208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Auto_Import" timestamp="1601046746038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1601046746038" />
+    <state x="361" y="74" key="#Template_Data_Languages" timestamp="1600703494020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1600703494020" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1601105830466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601105830466" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600681374809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1600681374809" />
+    <state x="473" y="157" key="FileChooserDialogImpl" timestamp="1602005781924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602005781924" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1600681559718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600681559718" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1601998208562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601998208562" />
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600681543038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1600681543038" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600786511084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600786511084" />
+  </component>
+</project>
